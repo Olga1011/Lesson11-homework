@@ -5,23 +5,13 @@ if (dayOfTheWeek != null) {
 
 switch (dayOfTheWeek) {
     case 'MONDAY':
-        alert('Working Day');
-        break;
     case 'TUESDAY':
-        alert('Working Day');
-        break;
     case 'WENDESDAY':
-        alert('Working Day');
-        break;
     case 'THURSDAY':
-        alert('Working Day');
-        break;
     case 'FRIDAY':
         alert('Working Day');
         break;
     case 'SATURDAY':
-        alert('Weekend');
-        break;
     case 'SUNDAY':
         alert('Weekend');
         break;
